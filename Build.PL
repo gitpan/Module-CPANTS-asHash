@@ -4,7 +4,7 @@ use File::Spec::Functions;
 
 my $build = Module::Build->new
   (
-   module_name => 'Module::CPANTS::as::Hash',
+   module_name => 'Module::CPANTS::asHash',
    license     => 'perl',
    requires    => { },
 

@@ -2,7 +2,6 @@ Build.PL
 Changes
 MANIFEST
 Makefile.PL
-META.yml
 README
-test.pl
-lib/Module/CPANTS/as/Hash.pm
+t/load.t
+lib/Module/CPANTS/asHash.pm
