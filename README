@@ -1,0 +1,16 @@
+NAME
+    Module::CPANTS::asHash - CPANTS data in one big hash
+
+SYNOPSIS
+      use Module::CPANTS::asHash;
+      my $c = Module::CPANTS::as::Hash->new();
+      my $cpants = $c->data;
+
+DESCRIPTION
+      tbd
+
+AUTHOR
+    Thomas Klausner <domm@zsi.at>
+
+LICENSE
+    This code is distributed under the same license as Perl.
